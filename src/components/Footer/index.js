@@ -33,7 +33,7 @@ function Index(props) {
         <div className="col-12 copyright mt-2">
           &copy; {props.copyright}{" "}
           <a target="_blank" rel="noreferrer" href="https://s.id/geschool">
-            Road Map to Geschool
+            Geschool
           </a>
         </div>
       </div>
